@@ -39,6 +39,6 @@ label start:
 
     scene bg arcade
     "오락실 데이트이다"
-
+    #jump hockey
 
     return
