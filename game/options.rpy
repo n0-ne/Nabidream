@@ -11,13 +11,13 @@
 ##
 ## 문자열을 _()로 둘러 쌓으면 씌우면 번역의 대상으로 표시됩니다.
 
-define config.name = _("nabidream")
+define config.name = _("나비는 꿈을 꾼다")
 
 
 ## 위에 주어진 제목이 주 메뉴 화면에 표시되는지 결정합니다. 제목을 숨기려면 이
 ## 것을 False로 설정하십시오.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## 게임의 버전입니다.
